@@ -1,0 +1,20 @@
+{
+  "name": "opencode-perch-auth",
+  "version": "0.1.0",
+  "description": "OpenCode & Magpie provider plugin for Perch AI models, reusing macOS Keychain auth from perch CLI, supporting rolling quota meters and free model status",
+  "type": "module",
+  "main": "./index.mjs",
+  "exports": "./index.mjs",
+  "files": [
+    "index.mjs",
+    "README.md"
+  ],
+  "keywords": [
+    "opencode",
+    "opencode-plugin",
+    "magpie",
+    "perch",
+    "perchai"
+  ],
+  "license": "MIT"
+}
